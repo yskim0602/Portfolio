@@ -23,4 +23,4 @@ __강조글자__
 ---
 ### 이미지 링크걸기
 [![으응](https://user-images.githubusercontent.com/75105125/203675576-363de431-5f66-414e-b391-aa64a8d34c54.png "으으음")]
-(https://www.dau..net)
+(https://www.daum.net '다음사이트 바로가기')
