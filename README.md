@@ -13,4 +13,4 @@ __강조글자__
 
 ---
 
-{네이버}{https://www.naver.com/}
+[네이버](https://www.naver.com/ '네이버 바로가기')
